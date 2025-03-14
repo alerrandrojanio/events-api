@@ -86,4 +86,4 @@ Este é o repositório do projeto de Eventos, utilizando Java, Spring Boot, MySQ
 
 ### GET /subscription/{prettyName}/ranking
 
-### /subscription/{prettyName}/ranking/{userId}
+### GET /subscription/{prettyName}/ranking/{userId}
